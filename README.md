@@ -18,4 +18,6 @@ By default read all the books under the folder Read_Texts_Files:
 return: dic that include all the words that appear in the attachments file + the longest word length in a dictionary
 we create a Counter array of all the words from that book to be our local dictionary
 
+The main file in the project, gives a solution to the word break problem, any string of characters that is entered as input, it will try to decompose the string into a proper sentence in the English language.
+
 
