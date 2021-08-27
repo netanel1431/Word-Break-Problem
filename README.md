@@ -40,7 +40,7 @@ then just when things were looking very serious for frank there port on the ridd
 **Threshold_value_of_our algo the determine if the The string can not be divided to correct sentence or not**</br>
 threshold level=0.066</br>
     if 0.066 >=percentage_Algo_1_missed_chars ---> missing percentage is smaller than the threshold level ---> Result:The string can be divided into a proper sentence
-    else: ---> missing percentage is bigger than the threshold level ---> Result:The string can not be divided</br>
+    </br>else: ---> missing percentage is bigger than the threshold level ---> Result:The string can not be divided</br>
     
 
 
