@@ -1,8 +1,8 @@
 # Word-Break-Problem
-Solution to Word Break Problem
+Solution to Word Break Problem<br/>
+See also [Link to our youtube video](https://www.youtube.com/watch?v=j9V78UbdzWI/)
 
 
-Link to out youtube vedio:https://www.youtube.com/watch?v=j9V78UbdzWI
 
 Data books
 Alice_in_wonderland=26720 words 
