@@ -16,27 +16,6 @@ By default read all the books under the folder Read_Texts_Files:
     3.Harrey_Poter_book_4.txt
     4.Harrey_Poter_book_5.txt
 return: dic that include all the words that appear in the attachments file + the longest word length in a dictionary
-we crea
+we create a Counter array of all the words from that book to be our local dictionary
 
-Note: This can only be done if we know the original sentence
-Data books
-Alice_in_wonderland=26720 words 
-Harrey_Poter_book_1=78542 words
-Harrey_Poter_book_4=193790 words
-Harrey_Poter_book_5=260822 words
-The_Game_of_thrones=470677 words
 
-Total Data books words=1030551
-
------------------------------------
-Train books:
-Harrey_Poter_book_2=86534 words
-Harrey_Poter_book_3=108844 words
-
-Total Data books words=195378
-
-For the training i split the two books to 375 sub small files 
-
-Note
-while i run on the 375 sub file ,
-I was only able to run on 221 of 375 files, Because I came across on out of memory problem with my pc
